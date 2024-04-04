@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://github.com/byronlloydwakeman/byronlloydwakeman/assets/72659565/2e2d1ed0-e8ed-4051-857d-cb13c1d57a02" width="100"/>
+  <img src=["https://giphy.com/gifs/code-chimpers-master-chimpo-fByehYIrOIzO8XolJK.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVuc3J0cDc4emQ1OWRrOWFhbzZhNmcza2VidHFlYWMzN3Q0bGIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)" width="100"/>
 </div>
+
