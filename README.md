@@ -46,26 +46,23 @@
 <h2>🪴 Favourite Projects :</h2>
 <div>
   <h3>PracticeWithByron</h3>
-  <a href="https://practicewithbyron.com/">Site</a>
-  <a href="https://github.com/practicewithbyron/practicewithbyron_prod">Source Code</a>
+  <a href="https://practicewithbyron.com/">🖥️ Site</a>
+  <a href="https://github.com/practicewithbyron/practicewithbyron_prod">🧑‍💻 Source Code</a>
 </div>
 <div>
 <h3>Portfolio Website</h3>
-  <a href="https://icy-smoke-0a263c703.4.azurestaticapps.net/">Site</a>
-  <a href="https://github.com/practicewithbyron/portfoliowebsite_prod/tree/prod">Source Code</a>
+  <a href="https://icy-smoke-0a263c703.4.azurestaticapps.net/">🖥️ Site</a>
+  <a href="https://github.com/practicewithbyron/portfoliowebsite_prod/tree/prod">🧑‍💻 Source Code</a>
 </div>
 <div>
   <h3>IMC Trading Challenge</h3>
-  <a href="https://prosperity.imc.com/dashboard">Site</a>
-  <a href="https://github.com/byronlloydwakeman/IMC">Source Code</a>
+  <a href="https://prosperity.imc.com/dashboard">🖥️ Site</a>
+  <a href="https://github.com/byronlloydwakeman/IMC">🧑‍💻 Source Code</a>
 </div>
 <div>
   <h3>Inventory Management System</h3>
-  <a href="https://practicewithbyron.com/">Site</a>
-  <a href="https://github.com/practicewithbyron/practicewithbyron_prod">Source Code</a>
+  <a href="https://github.com/byronlloydwakeman/SummativeUI">🧑‍💻 Source Code</a>
 </div>
-
-
 
 
 <h2>🫂 My Other Accounts :</h2>
