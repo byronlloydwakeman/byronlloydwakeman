@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2>:fire: My Stats: </h2>
+<h2>:fire: My Stats :</h2>
 <div align="center">
   <div>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=byronlloydwakeman&theme=dark&background=000000"/>
@@ -43,5 +43,11 @@
   </div>
 </div>
 
-<h2>🫂 My Other Accounts: </h2>
+<h2>🪴 Favourite Projects :</h2>
+<h3>Portfolio Website</h3>
+<h3>IMC Trading Challenge</h3>
+<h3>Inventory Management System</h3>
+
+
+<h2>🫂 My Other Accounts :</h2>
 <a href="https://github.com/practicewithbyron"><img src="https://github.com/byronlloydwakeman/byronlloydwakeman/assets/72659565/2ff99ab5-4b76-409a-815b-6bfaed898406"/></a>&nbsp;
