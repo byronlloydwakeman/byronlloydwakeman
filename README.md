@@ -51,8 +51,8 @@
 </div>
 <div>
 <h3>Portfolio Website</h3>
-  <a href="https://practicewithbyron.com/">Site</a>
-  <a href="https://github.com/practicewithbyron/practicewithbyron_prod">Source Code</a>
+  <a href="https://icy-smoke-0a263c703.4.azurestaticapps.net/">Site</a>
+  <a href="https://github.com/practicewithbyron/portfoliowebsite_prod/tree/prod">Source Code</a>
 </div>
 <div>
   <h3>IMC Trading Challenge</h3>
