@@ -73,4 +73,5 @@
 <br/>
 
 <h2>🫂 My Other Accounts :</h2>
-<a href="https://github.com/practicewithbyron"><img src="https://github.com/byronlloydwakeman/byronlloydwakeman/assets/72659565/2ff99ab5-4b76-409a-815b-6bfaed898406"/></a>&nbsp;
+<a href="https://github.com/practicewithbyron"><img style="width:100px" src="https://avatars.githubusercontent.com/u/143816275?v=4"/></a>&nbsp;
+<a href="https://github.com/TreasureHunt-github"><img style="width:100px" src="https://avatars.githubusercontent.com/u/169382803?v=4"/></a>&nbsp;
