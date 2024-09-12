@@ -13,7 +13,7 @@
 
 <p>🗻 I am a software developer degree apprentice working at Fujitsu</p>
 <p>🤖 I have a hobbyist background in robotics and building stuff. My proudest creations are my wind turbine and my cartesian robotic arm!</p>
-
+<a href="https://leetcode.com/u/lloydwakemanbyron/">My LeetCode</a>
 <br/>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
