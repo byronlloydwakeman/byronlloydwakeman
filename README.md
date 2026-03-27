@@ -66,6 +66,10 @@
   <a href="https://github.com/byronlloydwakeman/IMCTradingChallenge2">🧑‍💻 Source Code 2025</a>
 </div>
 <div>
+  <h3>Simple Leetcode FAANG target tracker</h3>
+  <a href="https://leetcodetracker-blw.firebaseapp.com/">🖥️ Site (Anyone can use!)</a>
+  <a href="https://github.com/byronlloydwakeman/leetcodetracker">🧑‍💻 Source Code</a>
+<div>
   <h3>Inventory Management System</h3>
   <a href="https://github.com/byronlloydwakeman/SummativeUI">🧑‍💻 Source Code</a>
 </div>
