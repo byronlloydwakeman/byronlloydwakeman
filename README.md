@@ -14,6 +14,12 @@
 <p>🗻 I am a software developer degree apprentice working at Fujitsu</p>
 <p>🤖 I have a hobbyist background in robotics and building stuff. My proudest creations are my wind turbine and my cartesian robotic arm!</p>
 <br/>
+<p>I'm a software developer with three years of production experience building and maintaining Smart ticketing systems in Java at Fujitsu. My work has also included greenfield development as well as working directly with customers, walking them through Linux based installations.
+
+The range of projects I have worked on has provided me with the opportunity to use VisualVM to analyse JFR and Heap dump files to improve the performance of systems under the hood.
+
+A few of the production projects I'm most proud of: leading the Jenkins CI/CD migration, writing scripts in Groovy and Python to automate the migration of jobs from the old servers to the new; and building a data analytics pipeline for a PoC, producing evidence for the team to secure stakeholder investment.</p>
+<br/>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
@@ -36,7 +42,7 @@
 <h2>:fire: My Stats :</h2>
 <div align="center">
   <div>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=byronlloydwakeman&theme=dark&background=000000"/>
+    <img src="https://streak-stats.demolab.com?user=byronlloydwakeman&theme=dark&background=000000"/>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronlloydwakeman&layout=compact&theme=vision-friendly-dark"/>
