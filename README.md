@@ -58,6 +58,7 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
 <div>
 <h3>Cartesian Robot Arm</h3>
   <a href="https://youtu.be/_fhGhLFkF1I?si=o8SNs0gTVA5dWtB-">▶️ Youtube</a>
+  <a href="https://medium.com/@lloydwakemanbyron/stubborn-hobby-career-018979e56e22">📑 Medium Blog Post</a>
   <a href="https://github.com/byronlloydwakeman/RobotArmArduino">🧑‍💻 Source Code</a>
 </div>
 <div>
@@ -65,6 +66,7 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
   <a href="https://proud-moss-06f797a03.4.azurestaticapps.net/">🖥️ Site</a>
   <a href="https://github.com/byronlloydwakeman/runtimeterror">🧑‍💻 Source Code</a>
 </div>
+<h3>Bykml</h3>
 <div>
   <a href="https://pypi.org/project/bykml/#description">🖥️ Site</a>
   <a href="https://github.com/byronlloydwakeman/bykml">🧑‍💻 Source Code</a>
