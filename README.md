@@ -56,9 +56,9 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
   <a href="https://github.com/practicewithbyron/practicewithbyron_prod">🧑‍💻 Source Code</a>
 </div>
 <div>
-<h3>Portfolio Website</h3>
-  <a href="https://icy-smoke-0a263c703.4.azurestaticapps.net/">🖥️ Site</a>
-  <a href="https://github.com/practicewithbyron/portfoliowebsite_prod/tree/prod">🧑‍💻 Source Code</a>
+<h3>Cartesian Robot Arm</h3>
+  <a href="https://youtu.be/_fhGhLFkF1I?si=o8SNs0gTVA5dWtB-">▶️ Youtube</a>
+  <a href="https://github.com/byronlloydwakeman/RobotArmArduino">🧑‍💻 Source Code</a>
 </div>
 <div>
 <h3>RuntimeTerror</h3>
@@ -71,15 +71,6 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
   <a href="https://github.com/byronlloydwakeman/IMC">🧑‍💻 Source Code 2024</a>
   <a href="https://github.com/byronlloydwakeman/IMCTradingChallenge2">🧑‍💻 Source Code 2025</a>
 </div>
-<div>
-  <h3>Simple Leetcode FAANG target tracker</h3>
-  <a href="https://leetcodetracker-blw.firebaseapp.com/">🖥️ Site (Anyone can use!)</a>
-  <a href="https://github.com/byronlloydwakeman/leetcodetracker">🧑‍💻 Source Code</a>
-<div>
-  <h3>Inventory Management System</h3>
-  <a href="https://github.com/byronlloydwakeman/SummativeUI">🧑‍💻 Source Code</a>
-</div>
-
 <br/>
 
 <h2>🫂 My Other Accounts :</h2>
