@@ -39,8 +39,9 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
 
 <br/>
 
-<a href="https://github.com/practicewithbyron/neetcode-submissions">
-  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width
+<h2><img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="30" height="30"/>&nbsp; Leetcode :</h2> 
+<a href="https://leetcode.com/u/lloydwakemanbyron/">🏆 Leetcode</a>
+<a href="https://github.com/practicewithbyron/neetcode-submissions">🚀 Neetcode</a>
 
 <br/>
 
