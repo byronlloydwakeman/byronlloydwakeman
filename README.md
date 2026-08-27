@@ -67,7 +67,8 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
 <h3>Cartesian Robot Arm</h3>
   <a href="https://youtu.be/_fhGhLFkF1I?si=o8SNs0gTVA5dWtB-">▶️ Youtube</a>
   <a href="https://medium.com/@lloydwakemanbyron/stubborn-hobby-career-018979e56e22">📑 Medium Blog Post</a>
-  <a href="https://github.com/byronlloydwakeman/RobotArmArduino">🧑‍💻 Source Code</a>
+  <a href="https://github.com/byronlloydwakeman/RobotArmArduino">🧑‍💻 C++ Embedded Code</a>
+  <a href="https://github.com/byronlloydwakeman/RobotArmBackend">🧑‍💻 Java Controller Code</a>
 </div>
 <div>
 <h3>RuntimeTerror</h3>
