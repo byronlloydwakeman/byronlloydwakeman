@@ -84,6 +84,7 @@ A few of the production projects I'm most proud of: leading the Jenkins CI/CD mi
   <a href="https://prosperity.imc.com/dashboard">🖥️ Site</a>
   <a href="https://github.com/byronlloydwakeman/IMC">🧑‍💻 Source Code 2024</a>
   <a href="https://github.com/byronlloydwakeman/IMCTradingChallenge2">🧑‍💻 Source Code 2025</a>
+  <a href="https://github.com/byronlloydwakeman/Llydras-IMC_Trading_Challenge_2026">🧑‍💻 Source Code 2026</a>
 </div>
 <br/>
 
